@@ -1,0 +1,4 @@
+HipsterNews
+===========
+
+HipsterNews Browser Extension
